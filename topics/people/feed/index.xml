@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>People | MangaMoon</title>
+	<atom:link href="/topics/people/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Manga Reviews &#38; Recommendations</description>
+	<lastBuildDate>Wed, 11 May 2022 21:21:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/10/cropped-LogoMoon-32x32.png</url>
+	<title>People | MangaMoon</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Berserk of Gluttony</title>
+		<link>/review/berserk-of-gluttony-manga-review/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=berserk-of-gluttony-manga-review</link>
+					<comments>/review/berserk-of-gluttony-manga-review/#comments</comments>
+		
+		<dc:creator><![CDATA[Celtrius]]></dc:creator>
+		<pubDate>Tue, 14 Dec 2021 14:47:38 +0000</pubDate>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Drama]]></category>
+		<category><![CDATA[Fantasy]]></category>
+		<category><![CDATA[Harem]]></category>
+		<category><![CDATA[Manga (Japan)]]></category>
+		<category><![CDATA[Romance]]></category>
+		<category><![CDATA[Seinen]]></category>
+		<guid isPermaLink="false">https://mangamoon.me/?post_type=review&#038;p=3101</guid>
+
+					<description><![CDATA[<p>Read the story of Fate Barbatos, someone who has never tasted real power. Born with the magical skill Gluttony, he constantly hungers in a way that can't be satiated, and has been shunned and looked down upon his entire life.</p>
+<p>The post <a href="/review/berserk-of-gluttony-manga-review/">Berserk of Gluttony</a> first appeared on <a href="/">MangaMoon</a>.</p>]]></description>
+		
+					<wfw:commentRss>/review/berserk-of-gluttony-manga-review/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Moonlit Fantasy</title>
+		<link>/review/moonlit-fantasy/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=moonlit-fantasy</link>
+					<comments>/review/moonlit-fantasy/#respond</comments>
+		
+		<dc:creator><![CDATA[Andi Front]]></dc:creator>
+		<pubDate>Thu, 11 Nov 2021 23:21:52 +0000</pubDate>
+				<category><![CDATA[Action]]></category>
+		<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Comedy]]></category>
+		<category><![CDATA[Ecchi]]></category>
+		<category><![CDATA[Fantasy]]></category>
+		<category><![CDATA[Harem]]></category>
+		<category><![CDATA[Magic]]></category>
+		<category><![CDATA[Manga (Japan)]]></category>
+		<category><![CDATA[Martial-Art]]></category>
+		<guid isPermaLink="false">https://mangamoon.me/?post_type=review&#038;p=3006</guid>
+
+					<description><![CDATA[<p>We all know those scenarios. A kind of average looking guy randomly gets teleported to another world with cheat abilities granted by a kind Goddess… Well except that the goddess is a douchebag!</p>
+<p>The post <a href="/review/moonlit-fantasy/">Moonlit Fantasy</a> first appeared on <a href="/">MangaMoon</a>.</p>]]></description>
+		
+					<wfw:commentRss>/review/moonlit-fantasy/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 91/191 objects using disk
+Page Caching using disk (Requested URI contains query) 
+Lazy Loading (feed)
+Database Caching using redis
+
+Served from: old.mangamoon.me @ 2024-01-14 08:53:17 by W3 Total Cache
+-->

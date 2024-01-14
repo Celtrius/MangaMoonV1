@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Personalities | MangaMoon</title>
+	<atom:link href="/topics/personalities/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Manga Reviews &#38; Recommendations</description>
+	<lastBuildDate>Fri, 01 Apr 2022 20:57:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/10/cropped-LogoMoon-32x32.png</url>
+	<title>Personalities | MangaMoon</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>The Beginning After The End</title>
+		<link>/review/the-beginning-after-the-end/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=the-beginning-after-the-end</link>
+					<comments>/review/the-beginning-after-the-end/#respond</comments>
+		
+		<dc:creator><![CDATA[Andi Front]]></dc:creator>
+		<pubDate>Sun, 14 Nov 2021 12:15:43 +0000</pubDate>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Comedy]]></category>
+		<category><![CDATA[Fantasy]]></category>
+		<category><![CDATA[Magic]]></category>
+		<category><![CDATA[Romance]]></category>
+		<category><![CDATA[School]]></category>
+		<guid isPermaLink="false">https://mangamoon.me/?post_type=review&#038;p=3221</guid>
+
+					<description><![CDATA[<p>Just As King Grey Died A New Life Had Begun.<br />
+In Another World, In Another Age And In Another Body.<br />
+Follow Arthurs (Ex King Grey’s) Life From Toddler To<br />
+Who Knows How Long He Lives</p>
+<p>The post <a href="/review/the-beginning-after-the-end/">The Beginning After The End</a> first appeared on <a href="/">MangaMoon</a>.</p>]]></description>
+		
+					<wfw:commentRss>/review/the-beginning-after-the-end/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 77/168 objects using disk
+Page Caching using disk (Requested URI contains query) 
+Lazy Loading (feed)
+Database Caching using redis
+
+Served from: old.mangamoon.me @ 2024-01-14 08:53:18 by W3 Total Cache
+-->

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Smart Protagonist | MangaMoon</title>
+	<atom:link href="/topics/protagonist/smart-protagonist/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Manga Reviews &#38; Recommendations</description>
+	<lastBuildDate>Fri, 01 Apr 2022 21:08:20 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2021/10/cropped-LogoMoon-32x32.png</url>
+	<title>Smart Protagonist | MangaMoon</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Re:Master Magic</title>
+		<link>/review/remaster-magic/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=remaster-magic</link>
+					<comments>/review/remaster-magic/#respond</comments>
+		
+		<dc:creator><![CDATA[Andi Front]]></dc:creator>
+		<pubDate>Sun, 14 Nov 2021 12:29:51 +0000</pubDate>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Comedy]]></category>
+		<category><![CDATA[Fantasy]]></category>
+		<category><![CDATA[Harem]]></category>
+		<category><![CDATA[Magic]]></category>
+		<category><![CDATA[Romance]]></category>
+		<guid isPermaLink="false">https://mangamoon.me/?post_type=review&#038;p=3231</guid>
+
+					<description><![CDATA[<p>The Great And Strong Physicist Albert Einstein On His Path To Finalize The Relativity…<br />
+Wait Wrong Einstein. I Mean Zeff Einstein The Strongest Red Mage Of The World…<br />
+Well Until He Wasn’t…</p>
+<p>The post <a href="/review/remaster-magic/">Re:Master Magic</a> first appeared on <a href="/">MangaMoon</a>.</p>]]></description>
+		
+					<wfw:commentRss>/review/remaster-magic/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The Beginning After The End</title>
+		<link>/review/the-beginning-after-the-end/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=the-beginning-after-the-end</link>
+					<comments>/review/the-beginning-after-the-end/#respond</comments>
+		
+		<dc:creator><![CDATA[Andi Front]]></dc:creator>
+		<pubDate>Sun, 14 Nov 2021 12:15:43 +0000</pubDate>
+				<category><![CDATA[Adventure]]></category>
+		<category><![CDATA[Comedy]]></category>
+		<category><![CDATA[Fantasy]]></category>
+		<category><![CDATA[Magic]]></category>
+		<category><![CDATA[Romance]]></category>
+		<category><![CDATA[School]]></category>
+		<guid isPermaLink="false">https://mangamoon.me/?post_type=review&#038;p=3221</guid>
+
+					<description><![CDATA[<p>Just As King Grey Died A New Life Had Begun.<br />
+In Another World, In Another Age And In Another Body.<br />
+Follow Arthurs (Ex King Grey’s) Life From Toddler To<br />
+Who Knows How Long He Lives</p>
+<p>The post <a href="/review/the-beginning-after-the-end/">The Beginning After The End</a> first appeared on <a href="/">MangaMoon</a>.</p>]]></description>
+		
+					<wfw:commentRss>/review/the-beginning-after-the-end/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 75/175 objects using disk
+Page Caching using disk (Requested URI contains query) 
+Lazy Loading (feed)
+Database Caching using redis
+
+Served from: old.mangamoon.me @ 2024-01-14 08:53:22 by W3 Total Cache
+-->
