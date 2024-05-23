@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: yes it is JoJo again	</title>
-	<atom:link href="/list/elementor-2194/feed/" rel="self" type="application/rss+xml" />
-	<link>/list/elementor-2194/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=elementor-2194</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Manga Reviews &#38; Recommendations</description>
 	<lastBuildDate>Mon, 08 Nov 2021 22:39:35 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,16 +20,16 @@
 	<item>
 		<title>
 		By: Andi Front		</title>
-		<link>/list/elementor-2194/#comment-3</link>
+		<link>./../index.html#comment-3</link>
 
 		<dc:creator><![CDATA[Andi Front]]></dc:creator>
 		<pubDate>Wed, 03 Nov 2021 20:56:34 +0000</pubDate>
 		<guid isPermaLink="false">https://www.mangamoon.ml/?p=2194#comment-3</guid>
 
-					<description><![CDATA[In reply to &lt;a href=&quot;/list/elementor-2194/#comment-2&quot;&gt;Celtrius&lt;/a&gt;.
+					<description><![CDATA[In reply to &lt;a href=&quot;./../index.html#comment-2&quot;&gt;Celtrius&lt;/a&gt;.
 
 yes]]></description>
-			<content:encoded><![CDATA[<p>In reply to <a href="/list/elementor-2194/#comment-2">Celtrius</a>.</p>
+			<content:encoded><![CDATA[<p>In reply to <a href="./../index.html#comment-2">Celtrius</a>.</p>
 <p>yes</p>
 ]]></content:encoded>
 		
@@ -37,7 +37,7 @@ yes]]></description>
 		<item>
 		<title>
 		By: Celtrius		</title>
-		<link>/list/elementor-2194/#comment-2</link>
+		<link>./../index.html#comment-2</link>
 
 		<dc:creator><![CDATA[Celtrius]]></dc:creator>
 		<pubDate>Wed, 03 Nov 2021 05:45:59 +0000</pubDate>

@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Trapped In A Dating Sim	</title>
-	<atom:link href="/review/trapped-in-a-dating-sim/feed/" rel="self" type="application/rss+xml" />
-	<link>/review/trapped-in-a-dating-sim/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=trapped-in-a-dating-sim</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Manga Reviews &#38; Recommendations</description>
 	<lastBuildDate>Sat, 27 Nov 2021 22:06:46 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		By: 		</title>
-		<link>/review/trapped-in-a-dating-sim/#comment-6</link>
+		<link>./../index.html#comment-6</link>
 
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Wed, 10 Nov 2021 23:48:14 +0000</pubDate>
@@ -34,7 +34,7 @@
 		<item>
 		<title>
 		By: Celtrius		</title>
-		<link>/review/trapped-in-a-dating-sim/#comment-4</link>
+		<link>./../index.html#comment-4</link>
 
 		<dc:creator><![CDATA[Celtrius]]></dc:creator>
 		<pubDate>Tue, 09 Nov 2021 06:52:52 +0000</pubDate>

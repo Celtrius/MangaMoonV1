@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: The Beginning After The End	</title>
-	<atom:link href="/review/the-beginning-after-the-end/feed/" rel="self" type="application/rss+xml" />
-	<link>/review/the-beginning-after-the-end/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=the-beginning-after-the-end</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Manga Reviews &#38; Recommendations</description>
 	<lastBuildDate>Fri, 01 Apr 2022 20:57:21 +0000</lastBuildDate>
 	<sy:updatePeriod>

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Smart Protagonist | MangaMoon</title>
-	<atom:link href="/topics/protagonist/smart-protagonist/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../../index.html</link>
 	<description>Manga Reviews &#38; Recommendations</description>
 	<lastBuildDate>Fri, 01 Apr 2022 21:08:20 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
-	<url>/wp-content/uploads/2021/10/cropped-LogoMoon-32x32.png</url>
+	<url>./../../../../wp-content/uploads/2021/10/cropped-LogoMoon-32x32.png</url>
 	<title>Smart Protagonist | MangaMoon</title>
-	<link>/</link>
+	<link>./../../../../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Re:Master Magic</title>
-		<link>/review/remaster-magic/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=remaster-magic</link>
-					<comments>/review/remaster-magic/#respond</comments>
+		<link>./../../../../review/remaster-magic/index.html</link>
+					<comments>./../../../../review/remaster-magic/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Andi Front]]></dc:creator>
 		<pubDate>Sun, 14 Nov 2021 12:29:51 +0000</pubDate>
@@ -45,17 +45,17 @@
 					<description><![CDATA[<p>The Great And Strong Physicist Albert Einstein On His Path To Finalize The Relativity…<br />
 Wait Wrong Einstein. I Mean Zeff Einstein The Strongest Red Mage Of The World…<br />
 Well Until He Wasn’t…</p>
-<p>The post <a href="/review/remaster-magic/">Re:Master Magic</a> first appeared on <a href="/">MangaMoon</a>.</p>]]></description>
+<p>The post <a href="./../../../../review/remaster-magic/index.html">Re:Master Magic</a> first appeared on <a href="./../../../../index.html">MangaMoon</a>.</p>]]></description>
 		
-					<wfw:commentRss>/review/remaster-magic/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../../review/remaster-magic/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The Beginning After The End</title>
-		<link>/review/the-beginning-after-the-end/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=the-beginning-after-the-end</link>
-					<comments>/review/the-beginning-after-the-end/#respond</comments>
+		<link>./../../../../review/the-beginning-after-the-end/index.html</link>
+					<comments>./../../../../review/the-beginning-after-the-end/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Andi Front]]></dc:creator>
 		<pubDate>Sun, 14 Nov 2021 12:15:43 +0000</pubDate>
@@ -71,9 +71,9 @@ Well Until He Wasn’t…</p>
 In Another World, In Another Age And In Another Body.<br />
 Follow Arthurs (Ex King Grey’s) Life From Toddler To<br />
 Who Knows How Long He Lives</p>
-<p>The post <a href="/review/the-beginning-after-the-end/">The Beginning After The End</a> first appeared on <a href="/">MangaMoon</a>.</p>]]></description>
+<p>The post <a href="./../../../../review/the-beginning-after-the-end/index.html">The Beginning After The End</a> first appeared on <a href="./../../../../index.html">MangaMoon</a>.</p>]]></description>
 		
-					<wfw:commentRss>/review/the-beginning-after-the-end/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../../review/the-beginning-after-the-end/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

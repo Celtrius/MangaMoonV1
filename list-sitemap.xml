@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on May 23, 2024 at 12:52 by All in One SEO v4.6.2 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on May 23, 2024 at 13:48 by All in One SEO v4.6.2 - the original SEO plugin for WordPress. -->
 
-<?xml-stylesheet type="text/xsl" href="/default-sitemap.xsl?sitemap=list"?>
+<?xml-stylesheet type="text/xsl" href="./default-sitemap.xsl?sitemap=list"?>
 <urlset
 	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
 	xmlns:xhtml="http://www.w3.org/1999/xhtml"
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 >
 	<url>
-		<loc><![CDATA[/list/best-upcoming-manhwa-with-op-main-character/]]></loc>
+		<loc><![CDATA[./list/best-upcoming-manhwa-with-op-main-character/]]>/index.html</loc>
 		<lastmod><![CDATA[2022-04-01T21:24:00+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -17,19 +17,19 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/list/top-gender-bender-manga-of-fall-2021/]]></loc>
+		<loc><![CDATA[./list/top-gender-bender-manga-of-fall-2021/]]>/index.html</loc>
 		<lastmod><![CDATA[2022-04-01T21:13:57+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2021/11/bar.svg]]></image:loc>
+			<image:loc><![CDATA[./wp-content/uploads/2021/11/bar.svg]]></image:loc>
 		</image:image>
 		<image:image>
 			<image:loc><![CDATA[https://i.imgur.com/ix7CyFu.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/list/top-10-reincarnation-manga-you-should-read/]]></loc>
+		<loc><![CDATA[./list/top-10-reincarnation-manga-you-should-read/]]>/index.html</loc>
 		<lastmod><![CDATA[2022-04-01T21:13:19+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -70,14 +70,14 @@
 			<image:loc><![CDATA[https://i.imgur.com/56TGl1P.jpg]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2021/11/I-have-decided-that-i-want-to-die.png]]></image:loc>
+			<image:loc><![CDATA[./wp-content/uploads/2021/11/I-have-decided-that-i-want-to-die.png]]></image:loc>
 		</image:image>
 		<image:image>
 			<image:loc><![CDATA[https://i.imgur.com/fV46gHb.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/list/elementor-2194/]]></loc>
+		<loc><![CDATA[./list/elementor-2194/]]>/index.html</loc>
 		<lastmod><![CDATA[2021-11-08T22:39:35+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -88,7 +88,7 @@
 			<image:loc><![CDATA[https://www.mangamoon.ml/wp-content/uploads/2021/10/Joseph-derp.png]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2021/10/JoJo-derp.jpg]]></image:loc>
+			<image:loc><![CDATA[./wp-content/uploads/2021/10/JoJo-derp.jpg]]></image:loc>
 		</image:image>
 	</url>
 </urlset>

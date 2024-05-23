@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: God of Blackfield	</title>
-	<atom:link href="/review/god-of-blackfield/feed/" rel="self" type="application/rss+xml" />
-	<link>/review/god-of-blackfield/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=god-of-blackfield</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Manga Reviews &#38; Recommendations</description>
 	<lastBuildDate>Thu, 05 May 2022 19:33:55 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		By: wexln ;)		</title>
-		<link>/review/god-of-blackfield/#comment-7</link>
+		<link>./../index.html#comment-7</link>
 
 		<dc:creator><![CDATA[wexln ;)]]></dc:creator>
 		<pubDate>Thu, 25 Nov 2021 15:06:37 +0000</pubDate>

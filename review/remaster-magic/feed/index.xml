@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Re:Master Magic	</title>
-	<atom:link href="/review/remaster-magic/feed/" rel="self" type="application/rss+xml" />
-	<link>/review/remaster-magic/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=remaster-magic</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Manga Reviews &#38; Recommendations</description>
 	<lastBuildDate>Fri, 01 Apr 2022 21:08:20 +0000</lastBuildDate>
 	<sy:updatePeriod>

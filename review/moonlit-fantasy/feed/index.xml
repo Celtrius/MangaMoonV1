@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Moonlit Fantasy	</title>
-	<atom:link href="/review/moonlit-fantasy/feed/" rel="self" type="application/rss+xml" />
-	<link>/review/moonlit-fantasy/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=moonlit-fantasy</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Manga Reviews &#38; Recommendations</description>
 	<lastBuildDate>Sat, 27 Nov 2021 22:07:44 +0000</lastBuildDate>
 	<sy:updatePeriod>

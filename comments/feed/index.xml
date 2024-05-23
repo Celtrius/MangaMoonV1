@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for MangaMoon	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
 	<description>Manga Reviews &#38; Recommendations</description>
 	<lastBuildDate>Wed, 11 May 2022 21:21:10 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		Comment on Berserk of Gluttony by Andi Front		</title>
-		<link>/review/berserk-of-gluttony-manga-review/#comment-8</link>
+		<link>./../../review/berserk-of-gluttony-manga-review/index.html#comment-8</link>
 
 		<dc:creator><![CDATA[Andi Front]]></dc:creator>
 		<pubDate>Fri, 17 Dec 2021 12:12:50 +0000</pubDate>
@@ -34,7 +34,7 @@
 		<item>
 		<title>
 		Comment on God of Blackfield by wexln ;)		</title>
-		<link>/review/god-of-blackfield/#comment-7</link>
+		<link>./../../review/god-of-blackfield/index.html#comment-7</link>
 
 		<dc:creator><![CDATA[wexln ;)]]></dc:creator>
 		<pubDate>Thu, 25 Nov 2021 15:06:37 +0000</pubDate>
@@ -48,7 +48,7 @@
 		<item>
 		<title>
 		Comment on Trapped In A Dating Sim by 		</title>
-		<link>/review/trapped-in-a-dating-sim/#comment-6</link>
+		<link>./../../review/trapped-in-a-dating-sim/index.html#comment-6</link>
 
 		<dc:creator><![CDATA[]]></dc:creator>
 		<pubDate>Wed, 10 Nov 2021 23:48:14 +0000</pubDate>
@@ -62,7 +62,7 @@
 		<item>
 		<title>
 		Comment on Trapped In A Dating Sim by Celtrius		</title>
-		<link>/review/trapped-in-a-dating-sim/#comment-4</link>
+		<link>./../../review/trapped-in-a-dating-sim/index.html#comment-4</link>
 
 		<dc:creator><![CDATA[Celtrius]]></dc:creator>
 		<pubDate>Tue, 09 Nov 2021 06:52:52 +0000</pubDate>
@@ -76,16 +76,16 @@
 		<item>
 		<title>
 		Comment on yes it is JoJo again by Andi Front		</title>
-		<link>/list/elementor-2194/#comment-3</link>
+		<link>./../../list/elementor-2194/index.html#comment-3</link>
 
 		<dc:creator><![CDATA[Andi Front]]></dc:creator>
 		<pubDate>Wed, 03 Nov 2021 20:56:34 +0000</pubDate>
 		<guid isPermaLink="false">https://www.mangamoon.ml/?p=2194#comment-3</guid>
 
-					<description><![CDATA[In reply to &lt;a href=&quot;/list/elementor-2194/#comment-2&quot;&gt;Celtrius&lt;/a&gt;.
+					<description><![CDATA[In reply to &lt;a href=&quot;./../../list/elementor-2194/index.html#comment-2&quot;&gt;Celtrius&lt;/a&gt;.
 
 yes]]></description>
-			<content:encoded><![CDATA[<p>In reply to <a href="/list/elementor-2194/#comment-2">Celtrius</a>.</p>
+			<content:encoded><![CDATA[<p>In reply to <a href="./../../list/elementor-2194/index.html#comment-2">Celtrius</a>.</p>
 <p>yes</p>
 ]]></content:encoded>
 		
@@ -93,7 +93,7 @@ yes]]></description>
 		<item>
 		<title>
 		Comment on yes it is JoJo again by Celtrius		</title>
-		<link>/list/elementor-2194/#comment-2</link>
+		<link>./../../list/elementor-2194/index.html#comment-2</link>
 
 		<dc:creator><![CDATA[Celtrius]]></dc:creator>
 		<pubDate>Wed, 03 Nov 2021 05:45:59 +0000</pubDate>

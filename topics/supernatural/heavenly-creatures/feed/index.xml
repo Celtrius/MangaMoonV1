@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Heavenly Creatures | MangaMoon</title>
-	<atom:link href="/topics/supernatural/heavenly-creatures/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../../index.html</link>
 	<description>Manga Reviews &#38; Recommendations</description>
 	<lastBuildDate>Sat, 27 Nov 2021 22:07:44 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
-	<url>/wp-content/uploads/2021/10/cropped-LogoMoon-32x32.png</url>
+	<url>./../../../../wp-content/uploads/2021/10/cropped-LogoMoon-32x32.png</url>
 	<title>Heavenly Creatures | MangaMoon</title>
-	<link>/</link>
+	<link>./../../../../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Moonlit Fantasy</title>
-		<link>/review/moonlit-fantasy/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=moonlit-fantasy</link>
-					<comments>/review/moonlit-fantasy/#respond</comments>
+		<link>./../../../../review/moonlit-fantasy/index.html</link>
+					<comments>./../../../../review/moonlit-fantasy/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Andi Front]]></dc:creator>
 		<pubDate>Thu, 11 Nov 2021 23:21:52 +0000</pubDate>
@@ -46,9 +46,9 @@
 		<guid isPermaLink="false">https://mangamoon.me/?post_type=review&#038;p=3006</guid>
 
 					<description><![CDATA[<p>We all know those scenarios. A kind of average looking guy randomly gets teleported to another world with cheat abilities granted by a kind Goddess… Well except that the goddess is a douchebag!</p>
-<p>The post <a href="/review/moonlit-fantasy/">Moonlit Fantasy</a> first appeared on <a href="/">MangaMoon</a>.</p>]]></description>
+<p>The post <a href="./../../../../review/moonlit-fantasy/index.html">Moonlit Fantasy</a> first appeared on <a href="./../../../../index.html">MangaMoon</a>.</p>]]></description>
 		
-					<wfw:commentRss>/review/moonlit-fantasy/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../../review/moonlit-fantasy/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

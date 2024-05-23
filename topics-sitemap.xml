@@ -1,122 +1,122 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on May 23, 2024 at 12:52 by All in One SEO v4.6.2 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on May 23, 2024 at 13:48 by All in One SEO v4.6.2 - the original SEO plugin for WordPress. -->
 
-<?xml-stylesheet type="text/xsl" href="/default-sitemap.xsl?sitemap=topics"?>
+<?xml-stylesheet type="text/xsl" href="./default-sitemap.xsl?sitemap=topics"?>
 <urlset
 	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
 	xmlns:xhtml="http://www.w3.org/1999/xhtml"
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 >
 	<url>
-		<loc><![CDATA[/topics/story/alternative-world/]]></loc>
+		<loc><![CDATA[./topics/story/alternative-world/]]>/index.html</loc>
 		<lastmod><![CDATA[2022-05-11T21:21:10+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/topics/others/character-development/]]></loc>
+		<loc><![CDATA[./topics/others/character-development/]]>/index.html</loc>
 		<lastmod><![CDATA[2022-05-11T21:21:10+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/topics/supernatural/demons/]]></loc>
+		<loc><![CDATA[./topics/supernatural/demons/]]>/index.html</loc>
 		<lastmod><![CDATA[2022-05-11T21:21:10+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/topics/others/fan-service/]]></loc>
+		<loc><![CDATA[./topics/others/fan-service/]]>/index.html</loc>
 		<lastmod><![CDATA[2021-11-27T22:07:44+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/topics/supernatural/half-human/]]></loc>
+		<loc><![CDATA[./topics/supernatural/half-human/]]>/index.html</loc>
 		<lastmod><![CDATA[2021-11-27T22:07:44+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/topics/supernatural/heavenly-creatures/]]></loc>
+		<loc><![CDATA[./topics/supernatural/heavenly-creatures/]]>/index.html</loc>
 		<lastmod><![CDATA[2021-11-27T22:07:44+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/topics/personalities/kuudere/]]></loc>
+		<loc><![CDATA[./topics/personalities/kuudere/]]>/index.html</loc>
 		<lastmod><![CDATA[2022-04-01T20:57:21+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/topics/people/loli/]]></loc>
+		<loc><![CDATA[./topics/people/loli/]]>/index.html</loc>
 		<lastmod><![CDATA[2021-11-27T22:07:44+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/topics/supernatural/magical-creatures/]]></loc>
+		<loc><![CDATA[./topics/supernatural/magical-creatures/]]>/index.html</loc>
 		<lastmod><![CDATA[2021-11-27T22:07:44+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/topics/protagonist/male-protagonist/]]></loc>
+		<loc><![CDATA[./topics/protagonist/male-protagonist/]]>/index.html</loc>
 		<lastmod><![CDATA[2022-05-11T21:21:10+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/topics/supernatural/monster/]]></loc>
+		<loc><![CDATA[./topics/supernatural/monster/]]>/index.html</loc>
 		<lastmod><![CDATA[2021-11-27T22:07:44+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/topics/people/nobility/]]></loc>
+		<loc><![CDATA[./topics/people/nobility/]]>/index.html</loc>
 		<lastmod><![CDATA[2022-05-11T21:21:10+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/topics/protagonist/overpowered/]]></loc>
+		<loc><![CDATA[./topics/protagonist/overpowered/]]>/index.html</loc>
 		<lastmod><![CDATA[2022-05-11T21:21:10+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/topics/people/poor/]]></loc>
+		<loc><![CDATA[./topics/people/poor/]]>/index.html</loc>
 		<lastmod><![CDATA[2022-05-11T21:21:10+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/topics/story/reincarnation/]]></loc>
+		<loc><![CDATA[./topics/story/reincarnation/]]>/index.html</loc>
 		<lastmod><![CDATA[2022-05-11T21:21:10+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/topics/feelings-and-human-habits/revenge/]]></loc>
+		<loc><![CDATA[./topics/feelings-and-human-habits/revenge/]]>/index.html</loc>
 		<lastmod><![CDATA[2022-05-05T19:33:55+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/topics/protagonist/smart-protagonist/]]></loc>
+		<loc><![CDATA[./topics/protagonist/smart-protagonist/]]>/index.html</loc>
 		<lastmod><![CDATA[2022-04-01T21:08:20+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/topics/protagonist/tragic-past/]]></loc>
+		<loc><![CDATA[./topics/protagonist/tragic-past/]]>/index.html</loc>
 		<lastmod><![CDATA[2022-05-11T21:21:10+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/topics/personalities/tsundere/]]></loc>
+		<loc><![CDATA[./topics/personalities/tsundere/]]>/index.html</loc>
 		<lastmod><![CDATA[2022-04-01T20:57:21+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>

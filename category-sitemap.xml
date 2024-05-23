@@ -1,110 +1,110 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on May 23, 2024 at 12:52 by All in One SEO v4.6.2 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on May 23, 2024 at 13:48 by All in One SEO v4.6.2 - the original SEO plugin for WordPress. -->
 
-<?xml-stylesheet type="text/xsl" href="/default-sitemap.xsl?sitemap=category"?>
+<?xml-stylesheet type="text/xsl" href="./default-sitemap.xsl?sitemap=category"?>
 <urlset
 	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
 	xmlns:xhtml="http://www.w3.org/1999/xhtml"
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 >
 	<url>
-		<loc><![CDATA[/category/fandom/jojo/]]></loc>
+		<loc><![CDATA[./category/fandom/jojo/]]>/index.html</loc>
 		<lastmod><![CDATA[2021-11-08T22:39:35+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/category/genres/fantasy/]]></loc>
+		<loc><![CDATA[./category/genres/fantasy/]]>/index.html</loc>
 		<lastmod><![CDATA[2022-05-11T21:21:10+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/category/genres/adventure/]]></loc>
+		<loc><![CDATA[./category/genres/adventure/]]>/index.html</loc>
 		<lastmod><![CDATA[2022-05-11T21:21:10+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/category/genres/action/]]></loc>
+		<loc><![CDATA[./category/genres/action/]]>/index.html</loc>
 		<lastmod><![CDATA[2022-05-11T21:21:10+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/category/genres/drama/]]></loc>
+		<loc><![CDATA[./category/genres/drama/]]>/index.html</loc>
 		<lastmod><![CDATA[2022-05-11T21:21:10+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/category/genres/comedy/]]></loc>
+		<loc><![CDATA[./category/genres/comedy/]]>/index.html</loc>
 		<lastmod><![CDATA[2022-04-01T21:08:20+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/category/genres/ecchi/]]></loc>
+		<loc><![CDATA[./category/genres/ecchi/]]>/index.html</loc>
 		<lastmod><![CDATA[2021-11-27T22:07:44+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/category/genres/harem/]]></loc>
+		<loc><![CDATA[./category/genres/harem/]]>/index.html</loc>
 		<lastmod><![CDATA[2022-05-11T21:21:10+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/category/genres/magic/]]></loc>
+		<loc><![CDATA[./category/genres/magic/]]>/index.html</loc>
 		<lastmod><![CDATA[2022-04-01T21:08:20+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/category/genres/martial-art/]]></loc>
+		<loc><![CDATA[./category/genres/martial-art/]]>/index.html</loc>
 		<lastmod><![CDATA[2021-11-27T22:07:44+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/category/genres/mecha/]]></loc>
+		<loc><![CDATA[./category/genres/mecha/]]>/index.html</loc>
 		<lastmod><![CDATA[2021-11-27T22:06:46+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/category/genres/military/]]></loc>
+		<loc><![CDATA[./category/genres/military/]]>/index.html</loc>
 		<lastmod><![CDATA[2022-05-05T19:33:55+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/category/genres/psychological/]]></loc>
+		<loc><![CDATA[./category/genres/psychological/]]>/index.html</loc>
 		<lastmod><![CDATA[2022-05-05T19:33:55+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/category/genres/romance-genres/]]></loc>
+		<loc><![CDATA[./category/genres/romance-genres/]]>/index.html</loc>
 		<lastmod><![CDATA[2022-05-11T21:21:10+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/category/genres/school/]]></loc>
+		<loc><![CDATA[./category/genres/school/]]>/index.html</loc>
 		<lastmod><![CDATA[2022-05-05T19:33:55+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/category/genres/seinen/]]></loc>
+		<loc><![CDATA[./category/genres/seinen/]]>/index.html</loc>
 		<lastmod><![CDATA[2022-05-11T21:21:10+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/category/origin/manga/]]></loc>
+		<loc><![CDATA[./category/origin/manga/]]>/index.html</loc>
 		<lastmod><![CDATA[2022-05-11T21:21:10+00:00]]></lastmod>
 		<changefreq><![CDATA[monthly]]></changefreq>
 		<priority><![CDATA[0.3]]></priority>

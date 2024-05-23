@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Comedy | MangaMoon</title>
-	<atom:link href="/category/genres/comedy/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../../index.html</link>
 	<description>Manga Reviews &#38; Recommendations</description>
 	<lastBuildDate>Sun, 12 Jun 2022 18:56:55 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
-	<url>/wp-content/uploads/2021/10/cropped-LogoMoon-32x32.png</url>
+	<url>./../../../../wp-content/uploads/2021/10/cropped-LogoMoon-32x32.png</url>
 	<title>Comedy | MangaMoon</title>
-	<link>/</link>
+	<link>./../../../../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on May 23, 2024 at 12:52 by All in One SEO v4.6.2 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on May 23, 2024 at 13:48 by All in One SEO v4.6.2 - the original SEO plugin for WordPress. -->
 
-<?xml-stylesheet type="text/xsl" href="/default-sitemap.xsl?sitemap=review"?>
+<?xml-stylesheet type="text/xsl" href="./default-sitemap.xsl?sitemap=review"?>
 <urlset
 	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
 	xmlns:xhtml="http://www.w3.org/1999/xhtml"
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 >
 	<url>
-		<loc><![CDATA[/review/berserk-of-gluttony-manga-review/]]></loc>
+		<loc><![CDATA[./review/berserk-of-gluttony-manga-review/]]>/index.html</loc>
 		<lastmod><![CDATA[2022-05-11T21:21:10+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -23,7 +23,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/review/god-of-blackfield/]]></loc>
+		<loc><![CDATA[./review/god-of-blackfield/]]>/index.html</loc>
 		<lastmod><![CDATA[2022-05-05T19:33:55+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -35,7 +35,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/review/remaster-magic/]]></loc>
+		<loc><![CDATA[./review/remaster-magic/]]>/index.html</loc>
 		<lastmod><![CDATA[2022-04-01T21:08:20+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -47,7 +47,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/review/the-beginning-after-the-end/]]></loc>
+		<loc><![CDATA[./review/the-beginning-after-the-end/]]>/index.html</loc>
 		<lastmod><![CDATA[2022-04-01T20:57:21+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -59,7 +59,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/review/moonlit-fantasy/]]></loc>
+		<loc><![CDATA[./review/moonlit-fantasy/]]>/index.html</loc>
 		<lastmod><![CDATA[2021-11-27T22:07:44+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -71,7 +71,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/review/trapped-in-a-dating-sim/]]></loc>
+		<loc><![CDATA[./review/trapped-in-a-dating-sim/]]>/index.html</loc>
 		<lastmod><![CDATA[2021-11-27T22:06:46+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Tragic Past | MangaMoon</title>
-	<atom:link href="/topics/protagonist/tragic-past/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../../index.html</link>
 	<description>Manga Reviews &#38; Recommendations</description>
 	<lastBuildDate>Wed, 11 May 2022 21:21:10 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
-	<url>/wp-content/uploads/2021/10/cropped-LogoMoon-32x32.png</url>
+	<url>./../../../../wp-content/uploads/2021/10/cropped-LogoMoon-32x32.png</url>
 	<title>Tragic Past | MangaMoon</title>
-	<link>/</link>
+	<link>./../../../../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Berserk of Gluttony</title>
-		<link>/review/berserk-of-gluttony-manga-review/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=berserk-of-gluttony-manga-review</link>
-					<comments>/review/berserk-of-gluttony-manga-review/#comments</comments>
+		<link>./../../../../review/berserk-of-gluttony-manga-review/index.html</link>
+					<comments>./../../../../review/berserk-of-gluttony-manga-review/index.html#comments</comments>
 		
 		<dc:creator><![CDATA[Celtrius]]></dc:creator>
 		<pubDate>Tue, 14 Dec 2021 14:47:38 +0000</pubDate>
@@ -45,17 +45,17 @@
 		<guid isPermaLink="false">https://mangamoon.me/?post_type=review&#038;p=3101</guid>
 
 					<description><![CDATA[<p>Read the story of Fate Barbatos, someone who has never tasted real power. Born with the magical skill Gluttony, he constantly hungers in a way that can't be satiated, and has been shunned and looked down upon his entire life.</p>
-<p>The post <a href="/review/berserk-of-gluttony-manga-review/">Berserk of Gluttony</a> first appeared on <a href="/">MangaMoon</a>.</p>]]></description>
+<p>The post <a href="./../../../../review/berserk-of-gluttony-manga-review/index.html">Berserk of Gluttony</a> first appeared on <a href="./../../../../index.html">MangaMoon</a>.</p>]]></description>
 		
-					<wfw:commentRss>/review/berserk-of-gluttony-manga-review/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../../review/berserk-of-gluttony-manga-review/feed/index.html</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>The Beginning After The End</title>
-		<link>/review/the-beginning-after-the-end/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=the-beginning-after-the-end</link>
-					<comments>/review/the-beginning-after-the-end/#respond</comments>
+		<link>./../../../../review/the-beginning-after-the-end/index.html</link>
+					<comments>./../../../../review/the-beginning-after-the-end/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Andi Front]]></dc:creator>
 		<pubDate>Sun, 14 Nov 2021 12:15:43 +0000</pubDate>
@@ -71,9 +71,9 @@
 In Another World, In Another Age And In Another Body.<br />
 Follow Arthurs (Ex King Grey’s) Life From Toddler To<br />
 Who Knows How Long He Lives</p>
-<p>The post <a href="/review/the-beginning-after-the-end/">The Beginning After The End</a> first appeared on <a href="/">MangaMoon</a>.</p>]]></description>
+<p>The post <a href="./../../../../review/the-beginning-after-the-end/index.html">The Beginning After The End</a> first appeared on <a href="./../../../../index.html">MangaMoon</a>.</p>]]></description>
 		
-					<wfw:commentRss>/review/the-beginning-after-the-end/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../../review/the-beginning-after-the-end/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- This sitemap was dynamically generated on May 23, 2024 at 12:52 by All in One SEO v4.6.2 - the original SEO plugin for WordPress. -->
+<!-- This sitemap was dynamically generated on May 23, 2024 at 13:48 by All in One SEO v4.6.2 - the original SEO plugin for WordPress. -->
 
-<?xml-stylesheet type="text/xsl" href="/default-sitemap.xsl?sitemap=page"?>
+<?xml-stylesheet type="text/xsl" href="./default-sitemap.xsl?sitemap=page"?>
 <urlset
 	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
 	xmlns:xhtml="http://www.w3.org/1999/xhtml"
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 >
 	<url>
-		<loc><![CDATA[/]]></loc>
+		<loc><![CDATA[./]]>/index.html</loc>
 		<lastmod><![CDATA[2022-06-12T18:56:55+00:00]]></lastmod>
 		<changefreq><![CDATA[always]]></changefreq>
 		<priority><![CDATA[1]]></priority>
@@ -16,7 +16,7 @@
 			<image:loc><![CDATA[https://i.imgur.com/ZLTwcss.jpg]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2021/12/TopStory-1.webp]]></image:loc>
+			<image:loc><![CDATA[./wp-content/uploads/2021/12/TopStory-1.webp]]></image:loc>
 		</image:image>
 		<image:image>
 			<image:loc><![CDATA[https://i.imgur.com/hem3TVX.jpg]]></image:loc>
@@ -38,7 +38,7 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/reviews/]]></loc>
+		<loc><![CDATA[./reviews/]]>/index.html</loc>
 		<lastmod><![CDATA[2022-05-11T21:22:14+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -47,16 +47,16 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/user/]]></loc>
+		<loc><![CDATA[./user/]]>/index.html</loc>
 		<lastmod><![CDATA[2022-05-05T19:46:16+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/ultimatemember/1/profile_photo.jpg]]></image:loc>
+			<image:loc><![CDATA[./wp-content/uploads/ultimatemember/1/profile_photo.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/about/]]></loc>
+		<loc><![CDATA[./about/]]>/index.html</loc>
 		<lastmod><![CDATA[2022-04-01T21:38:02+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
@@ -64,7 +64,7 @@
 			<image:loc><![CDATA[https://i.imgur.com/y8XjEUM.jpg]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/ultimatemember/2/profile_photo.png]]></image:loc>
+			<image:loc><![CDATA[./wp-content/uploads/ultimatemember/2/profile_photo.png]]></image:loc>
 		</image:image>
 		<image:image>
 			<image:loc><![CDATA[https://i.imgur.com/efYujXf.jpg]]></image:loc>
@@ -74,18 +74,18 @@
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/privacy-policy/]]></loc>
+		<loc><![CDATA[./privacy-policy/]]>/index.html</loc>
 		<lastmod><![CDATA[2021-11-29T14:32:54+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/lists/]]></loc>
+		<loc><![CDATA[./lists/]]>/index.html</loc>
 		<lastmod><![CDATA[2021-11-27T22:23:22+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2021/11/The-Beginning-After-The-End.jpg]]></image:loc>
+			<image:loc><![CDATA[./wp-content/uploads/2021/11/The-Beginning-After-The-End.jpg]]></image:loc>
 		</image:image>
 		<image:image>
 			<image:loc><![CDATA[https://uploads.mangadex.org/covers/9d3d594f-c68d-43ff-b392-398cbe62541d/103b77b2-a176-428d-9ae3-836106b45a27.jpg]]></image:loc>
@@ -94,53 +94,53 @@
 			<image:loc><![CDATA[https://i.imgur.com/nd5zbkY.png]]></image:loc>
 		</image:image>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2021/10/JoJo-derp.jpg]]></image:loc>
+			<image:loc><![CDATA[./wp-content/uploads/2021/10/JoJo-derp.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/password-reset/]]></loc>
+		<loc><![CDATA[./password-reset/]]>/index.html</loc>
 		<lastmod><![CDATA[2021-11-24T20:17:18+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/register/]]></loc>
+		<loc><![CDATA[./register/]]>/index.html</loc>
 		<lastmod><![CDATA[2021-11-24T20:16:21+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/login/]]></loc>
+		<loc><![CDATA[./login/]]>/index.html</loc>
 		<lastmod><![CDATA[2021-11-24T20:14:21+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/ultimatemember/1/profile_photo.jpg]]></image:loc>
+			<image:loc><![CDATA[./wp-content/uploads/ultimatemember/1/profile_photo.jpg]]></image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/account/]]></loc>
+		<loc><![CDATA[./account/]]>/index.html</loc>
 		<lastmod><![CDATA[2021-11-24T20:09:52+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/coming-soon/]]></loc>
+		<loc><![CDATA[./coming-soon/]]>/index.html</loc>
 		<lastmod><![CDATA[2021-11-07T15:04:38+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 		<image:image>
-			<image:loc><![CDATA[/wp-content/uploads/2021/10/cropped-LogoMoon.png]]></image:loc>
+			<image:loc><![CDATA[./wp-content/uploads/2021/10/cropped-LogoMoon.png]]></image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc><![CDATA[/members/]]></loc>
+		<loc><![CDATA[./members/]]>/index.html</loc>
 		<lastmod><![CDATA[2021-11-05T22:30:49+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
 	</url>
 	<url>
-		<loc><![CDATA[/logout/]]></loc>
+		<loc><![CDATA[./logout/]]>/index.html</loc>
 		<lastmod><![CDATA[2021-11-05T22:30:49+00:00]]></lastmod>
 		<changefreq><![CDATA[weekly]]></changefreq>
 		<priority><![CDATA[0.7]]></priority>
