@@ -376,7 +376,7 @@
 						</xsl:choose>
 					</xsl:otherwise>
 				</xsl:choose>
-				and was generated on January 14, 2024 at 08:50			</p>
+				and was generated on May 23, 2024 at 12:53			</p>
 		</xsl:if>
 	</div>
 </xsl:template>
@@ -444,14 +444,3 @@
 	</style>
 </xsl:template>
 </xsl:stylesheet>
-
-<!--
-Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
-
-Object Caching 16/44 objects using disk
-Page Caching using disk (Requested URI contains query) 
-Lazy Loading
-Database Caching using redis
-
-Served from: old.mangamoon.me @ 2024-01-14 08:50:54 by W3 Total Cache
--->

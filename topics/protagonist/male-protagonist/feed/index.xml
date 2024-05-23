@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
 
 <image>
 	<url>/wp-content/uploads/2021/10/cropped-LogoMoon-32x32.png</url>
@@ -130,14 +130,3 @@ Who Knows How Long He Lives</p>
 			</item>
 	</channel>
 </rss>
-
-<!--
-Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
-
-Object Caching 92/215 objects using disk
-Page Caching using disk (Requested URI contains query) 
-Lazy Loading (feed)
-Database Caching using redis
-
-Served from: old.mangamoon.me @ 2024-01-14 08:53:14 by W3 Total Cache
--->
